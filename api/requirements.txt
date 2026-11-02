@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+psycopg[binary]
+celery[redis]
+aiohttp>=3.11,<4
